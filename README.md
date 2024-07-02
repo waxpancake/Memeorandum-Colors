@@ -1,4 +1,4 @@
-Memeorandum Colors
+Memeorandum Colors (ABANDONED DOES NOT WORK)
 ==================
 
 Browser add-on to visualize linking bias on political websites on Memeorandum.com, an aggregator of political news.
